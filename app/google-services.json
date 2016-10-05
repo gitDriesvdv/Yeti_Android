@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "662264386646",
+    "firebase_url": "https://yeti-295d2.firebaseio.com",
+    "project_id": "yeti-295d2",
+    "storage_bucket": "yeti-295d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:662264386646:android:34c2b76441f3fdb8",
+        "android_client_info": {
+          "package_name": "com.dev.driesvandevelde.yeti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "662264386646-oi67do0cjc7gcha0h7r40f1s8pc2fdgn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZVADkaaBMPIyJn99Njev_vyabmoCoy6g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
